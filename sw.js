@@ -1,4 +1,4 @@
-const CACHE = 'mi-administracion-v2';
+const CACHE = 'mi-administracion-v3';
 
 const FILES = [
   './',
