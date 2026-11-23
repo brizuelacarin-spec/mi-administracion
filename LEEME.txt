@@ -1,0 +1,9 @@
+MI ADMINISTRACIÓN — VERSIÓN INSTALABLE PWA
+
+Incluye la misma miniapp 1.1, manifiesto, íconos y funcionamiento sin conexión tras primera carga.
+
+INSTALACIÓN: subir TODOS los archivos de esta carpeta a un alojamiento HTTPS (por ejemplo GitHub Pages o Netlify), sin cambiar sus nombres ni rutas. Abrir la URL publicada en Chrome del Samsung y elegir menú > Agregar a pantalla de inicio > Instalar. No se instala abriendo index.html desde Descargas.
+
+DATOS: los datos del archivo HTML local NO se trasladan automáticamente a la PWA. En la app vieja: Respaldo > Exportar respaldo JSON. En la PWA nueva: Respaldo > Importar respaldo JSON. Importar reemplaza los datos existentes. Comprobar los totales y volver a exportar un respaldo.
+
+SEGURIDAD: la PWA conserva datos localmente en el navegador/dispositivo, sin sincronización ni cuenta. Guardar respaldos JSON fuera del teléfono periódicamente. No introducir contraseñas ni datos bancarios sensibles.
